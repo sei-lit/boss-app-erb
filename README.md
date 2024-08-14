@@ -1,3 +1,3 @@
-# boss-commandline
+# boss-app-erb
 
 
